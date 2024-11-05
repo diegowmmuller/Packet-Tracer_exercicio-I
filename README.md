@@ -2,7 +2,7 @@
 Objetivo:
 - Interligar redes lógicas diferentes utilizando um roteador
 
-Crie uma rede conforme a imagem.
+Neste exercicio foram utilizados os seguintes dispositivos:
 - 1 Roteadores 1941
 - 2 Switchs 2960
 - 4 pcs
